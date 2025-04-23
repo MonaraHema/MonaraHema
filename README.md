@@ -11,7 +11,7 @@ none of this is serious. half of it probably broke. the other half? cursed but i
 ##  current experiments
 
  [discord-bot-commissions](https://github.com/MonaraHema/discord-bot-commissions) – bots that do stuff  
-🎛 [WidgetWiki](https://github.com/MonaraHema/WidgetWiki) – weird lil Wiki for my bot for KobiHema :3
+ [WidgetWiki](https://github.com/MonaraHema/WidgetWiki) – weird lil Wiki for my bot for KobiHema :3
 
 ---
 

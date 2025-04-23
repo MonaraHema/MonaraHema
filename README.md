@@ -22,6 +22,8 @@ none of this is serious. half of it probably broke. the other half? cursed but i
 - random joke API that only returns bad puns
 - a web game where you throw files into the void
 - fake OS that runs in the browser and gaslights you
+- something in java... maybe... java is painfull
+- something else in lua.... less painfull
 
 ---
 

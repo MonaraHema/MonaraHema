@@ -30,10 +30,8 @@ none of this is serious. half of it probably broke. the other half? cursed but i
 ##  status
 
 - timezone: UK / slightly out of sync with reality  
-- mood: `sleepy && vibin`  
 - contact email: [Email:](mailto:contact@monarahema.software)
-- discord: momarahema & most other social platforms UwU
-- coding fuel: tooooo many redbull's
+- discord: momarahema & most other social platforms
 
 ---
 
